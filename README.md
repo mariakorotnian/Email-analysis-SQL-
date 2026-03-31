@@ -42,8 +42,5 @@ The transformed data was visualized to provide instant marketing insights:
 ## Vizualization in Looker
 https://lookerstudio.google.com/reporting/582b8463-750e-4489-8d10-98a0ba092e1d
 
-## 📁 Project Structure
-* [View SQL Query](sql/email_marketing_query.sql) — The full BigQuery script with CTEs and Window Functions.
-  
 ---
 *Developed as a portfolio project for the SQL Advanced Module.*
