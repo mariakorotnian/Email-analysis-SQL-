@@ -38,6 +38,10 @@ The transformed data was visualized to provide instant marketing insights:
 ## Key Insights
 - Identified the **Top 10 performing countries** by user engagement.
 - Analyzed the correlation between **account verification status** (`is_verified`) and the probability of users unsubscribing.
+
+## Vizualization in Looker
+https://lookerstudio.google.com/reporting/582b8463-750e-4489-8d10-98a0ba092e1d
+
 - Tracked **email dispatch intervals** to determine the most common communication frequency set by users.
 
 ---
