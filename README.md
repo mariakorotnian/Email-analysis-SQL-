@@ -42,5 +42,3 @@ The transformed data was visualized to provide instant marketing insights:
 ## Vizualization in Looker
 https://lookerstudio.google.com/reporting/582b8463-750e-4489-8d10-98a0ba092e1d
 
----
-*Developed as a portfolio project for the SQL Advanced Module.*
